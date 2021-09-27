@@ -6,7 +6,6 @@
 - [关于](#关于)
 
 #### About
->-
+>- Lab 2 [Click here](https://seechen.github.io/web_Development_Basis/Lab2/aboutme) to see the effect
 #### 关于
->- 这是 2021 年，北京理工大学小学期 Web 开发基础的作业报告;
->- 
+>- 实验 2 的效果[点击这里](https://seechen.github.io/web_Development_Basis/Lab2/aboutme)查看
