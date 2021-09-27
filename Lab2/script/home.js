@@ -1,4 +1,5 @@
 window.onload=function(){
+	pageLoading();
 	mouseClick();
 	stopRightClick();
 	getTime();
@@ -11,6 +12,17 @@ window.onload=function(){
 	navigationEvent();
 	console.log('%c SeeChen\'s Website','color:#1aa260;font-size:4em;font-family:ink free;');
 	console.log('%c 何以解忧，唯有暴富！','color:red;font-size:3em;font-family:kaiti;');
+}
+function pageLoading(){
+	if(document.readyState=="complete"){
+		document.getElementsByTagName('body')[0].style.opacity="1";
+		document.getElementsByTagName('body')[0].style.cursor="auto";
+		document.getElementsByTagName('html')[0].style.cursor="auto";
+		document.getElementById("laodingContent").style.opacity="0";
+		setTimeout(function(){
+			document.getElementById("laodingContent").style.display="none";
+		},500);
+	}
 }
 function topBackground(){
 	if(new Date().getHours()>=17||new Date().getHours()<7){
