@@ -2,6 +2,7 @@
 
 # 2021 BIT Small Semester report of Web Development Basis
 ---
+<a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
 - [About](#about)
 - [关于](#关于)
 
