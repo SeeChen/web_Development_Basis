@@ -53,6 +53,7 @@ function checkCheckBox(){
 	var n = 0 ;
 	var temp = 0 ;
 	for(var i = 11 ; i <= 15 ; i++ ){
+		n = 0;
 		var inputName = "Q" + i + "_Ans"
 		var answer = document.getElementsByName( inputName );
 		for( var j = 0 ; j < answer.length ; j++ ){
