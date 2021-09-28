@@ -8,5 +8,7 @@
 
 #### About
 >- Lab 2 [Click here](https://seechen.github.io/web_Development_Basis/Lab2/aboutme) to see the effect
+>- Lab 3 [Click here](https://seechen.github.io/web_Development_Basis/Lab3/onlinetest) to see the effect
 #### 关于
 >- 实验 2 的效果[点击这里](https://seechen.github.io/web_Development_Basis/Lab2/aboutme)查看
+>- 实验 3 的效果[点击这里](https://seechen.github.io/web_Development_Basis/Lab3/onlinetest)查看
