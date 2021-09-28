@@ -65,17 +65,6 @@
     				response.write("<th>" & x.name & "</th>")
 				next%>
 			</tr>
-			
-			<tr><td>AA</td><td>100</td></tr>
-			<tr><td>SeeChen</td><td>100</td></tr>
-			<tr><td>LSC</td><td>98</td></tr>
-			<tr><td>SEECHEN</td><td>96</td></tr>
-			<tr><td>SC Lee</td><td>90</td></tr>
-			<tr><td>SC_Lee</td><td>80</td></tr>
-			<tr><td>yoyoyo</td><td>60</td></tr>
-			<tr><td>嘿嘿嘿</td><td>20</td></tr>
-			<tr><td>SeeChen</td><td>0</td></tr>
-			
 			<%do until rs.EOF%>
     		<tr>
     		<%for each x in rs.Fields%>
